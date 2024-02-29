@@ -84,8 +84,8 @@
     margin: .5rem;
     padding: 1rem;
     border-radius: 1rem;
+    box-shadow: 6px 6px 6px rgb(146, 145, 145) ;
 }
-
 .pokemon .number {
     color: #000;
     opacity: .3;
